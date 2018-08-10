@@ -1,0 +1,8 @@
+Cell Style 1
+Charge/Discharge Current: 25 uA
+Approximate Charge-Discharge IR transition: -0.1 V
+Approximate Discharge-Charge IR transition: 0.5 V
+Time for charge/discharge portions of cycles: 500 sec
+Number of cycles in set: 5
+Anode-Cathode contact area: 1.54 cm^2
+Discharge Threshold: 2 V
